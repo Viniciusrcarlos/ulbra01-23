@@ -1,0 +1,7 @@
+Indicação de livro: Redes de Computadores - 5ª edição. Tanenbaum,
+na biblioteca da Ulbra. (consigo acessar no aula)
+
+O que é uma rede de computadores?
+    São dois ou mais dispositivos conectados entre si.
+
+LAN: Local Area Network
