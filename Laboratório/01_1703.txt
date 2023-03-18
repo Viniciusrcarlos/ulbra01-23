@@ -1,0 +1,7 @@
+- Aula mais importante do semestre!!
+- Nessa aula vou aprender Classes, Objetos, Notação UML, Sobrecarfa de métodos, Objetos e referencias...
+
+Antes do intervalo:
+
+- Programação procedural: Trabalhar em uma linguagem com apenas um arquivo de código.
+- Classe:  é uma estrutura.
