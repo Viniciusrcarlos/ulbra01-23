@@ -1,0 +1,10 @@
+Normalização de dados.
+usamos 3 formas normais, mas o total são 5 formas.
+
+Primeira forma:
+Uma tabela está na primeira forma normal quando seus 
+atributos não possuem grupos de repetição.
+
+Segunda forma:
+Ocorre quando a chave primaria é composta por mais de
+um campo.
