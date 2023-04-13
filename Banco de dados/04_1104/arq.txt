@@ -1,0 +1,15 @@
+- Nome do grupo: Sony
+- Integrantes: Vini, Lucas e Marina
+
+- Entregar um documento com o trabalho;
+- Entregar um documento com os objetivos da empresa;
+
+
+- Definicr uma empresa;
+- Definir o fluxo de banco de dados;
+- Entidade, atributo e relacionamento;
+
+
+Objetivo 01:
+Cadastro do veículo
+- Receber
