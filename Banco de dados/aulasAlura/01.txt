@@ -1,0 +1,10 @@
+Entidade é um objeto único (abstrata ou concreta)
+ex: cliente em uma empresa
+ex: carros que são vendidos
+ex: departamento de vendas
+A representação no diagrama é o RETÂNGULO
+
+Entidade forte: existe independentemente de outra Entidade
+Entidade fraca: depende da existencia de outra Entidade
+
+ 
